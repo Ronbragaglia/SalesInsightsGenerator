@@ -35,12 +35,11 @@ Antes de executar o código, certifique-se de ter instalado as seguintes bibliot
 - Matplotlib
 - NumPy
 
-Resultados Obtidos:
+## **Resultados Obtidos**
+
 ![image](https://github.com/user-attachments/assets/34b3c7c9-d409-4668-8f7a-ecf9078f7fa6)
 ![image](https://github.com/user-attachments/assets/37658ae2-c2fb-41f6-8e91-c515c1d954ba)
 ![image](https://github.com/user-attachments/assets/35bfe935-44b0-4f59-8a28-a044f9e7338e)
-
-
 
 
 Você pode instalar as dependências usando o arquivo `requirements.txt`:
