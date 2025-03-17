@@ -43,7 +43,7 @@ Você pode instalar as dependências usando o arquivo `requirements.txt`:
 pip install -r requirements.txt
 
 Resultados Obtidos:
-![image](https://github.com/user-attachments/assets/d3c9db86-d1c0-4b58-9607-44031b7d0771)
+[image](https://github.com/user-attachments/assets/d3c9db86-d1c0-4b58-9607-44031b7d0771)
 ![image](https://github.com/user-attachments/assets/15dd15d7-5675-481b-934c-dd0cc881a4f3)
 ![image](https://github.com/user-attachments/assets/ee658f67-7af5-4667-a31a-30114adbf3ed)
 
