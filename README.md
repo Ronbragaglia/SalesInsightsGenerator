@@ -49,8 +49,8 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para ma
 Contato
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
-Nome: [Rone Bragaglia]
+Nome: Rone Bragaglia
 
-Email: [rone.bragaglia@uni9.edu.br]
+Email: rone.bragaglia@uni9.edu.br
 
 GitHub: [https://github.com/Ronbragaglia]
