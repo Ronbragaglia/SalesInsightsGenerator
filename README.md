@@ -46,3 +46,16 @@ Você pode instalar as dependências usando o arquivo `requirements.txt`:
 
 ```bash
 pip install -r requirements.txt
+
+
+Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+Contato
+Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
+
+Nome: [Rone Bragaglia]
+
+Email: [rone.bragaglia@uni9.edu.br]
+
+GitHub: [https://github.com/Ronbragaglia]
