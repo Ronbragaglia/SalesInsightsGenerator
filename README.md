@@ -42,10 +42,13 @@ Você pode instalar as dependências usando o arquivo `requirements.txt`:
 ```bash
 pip install -r requirements.txt
 
+
+
+
+
 Resultados Obtidos:
+
 ![image](https://github.com/user-attachments/assets/b3ff073a-8edd-4c27-a49e-936876bfedf5)
-
-
 ![image](https://github.com/user-attachments/assets/15dd15d7-5675-481b-934c-dd0cc881a4f3)
 ![image](https://github.com/user-attachments/assets/ee658f67-7af5-4667-a31a-30114adbf3ed)
 
