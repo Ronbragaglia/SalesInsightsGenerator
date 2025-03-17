@@ -42,11 +42,6 @@ Antes de executar o código, certifique-se de ter instalado as seguintes bibliot
 ![image](https://github.com/user-attachments/assets/35bfe935-44b0-4f59-8a28-a044f9e7338e)
 
 
-Você pode instalar as dependências usando o arquivo `requirements.txt`:
-
-```bash
-pip install -r requirements.txt
-
 
 Licença
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
